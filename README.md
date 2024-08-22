@@ -6,6 +6,8 @@
 
 This is a responsive space-themed website designed to explore various aspects of space, including history and exploration. The site is a simple project created to learn and practice new web development skills. While it doesn’t offer interactive features, it showcases a clean design with a carousel and some animations to enhance the user experience.
 
+Visit: **https://nehra-space-site.netlify.app/**
+
 ## Features
 
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
